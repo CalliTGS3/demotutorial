@@ -20,3 +20,7 @@ basic.forever(function () {
     basic.showIcon(IconNames.Diamond)
 })
 ```
+
+```package
+SCD30=github:callitgs3/pxt-scd30#v0.9.0
+```
